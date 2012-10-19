@@ -1,0 +1,2 @@
+# MIPS Game "Catch a fly"
+You are a frog (green dot) being attacked by yellow dots (flies). Your goal is to shoot your tounge at the flies and take those bastards out. Unfortunately, the version of MARS this program works with is no longer available, as it was a custom version that was made by the University of Pittsburgh educational staff. It has since been modified and the display buffer now has different memory addresses. If I can find the old one, I will try to make it available here.
